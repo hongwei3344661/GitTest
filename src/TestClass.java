@@ -5,6 +5,7 @@ public class TestClass {
     }
     public void test1(){
         System.out.println("ha1ha1hao23p ");
+        System.out.println("ha1ha1h1aop ");
     }
     public void test2(){
         System.out.println("hahaha2");
