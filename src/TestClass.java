@@ -9,4 +9,7 @@ public class TestClass {
     public void test2(){
         System.out.println("hahaha2");
     }
+    public void test3(){
+
+    }
 }
