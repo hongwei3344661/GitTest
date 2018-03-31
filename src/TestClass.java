@@ -1,6 +1,6 @@
 public class TestClass {
 
-    public void test1(){
+    public void test(){
         System.out.println("这是主分支！！！ ");
        
     }
